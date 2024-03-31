@@ -7,7 +7,7 @@ your application. You may need to fine-tune the model on your data to achieve hi
 This blog post walks you thorugh how to fine-tune open LLMs from Hugging Face using Amazon SageMaker. This blog is an extension and dedicated version to my How to Fine-Tune LLMs in 2024 with Hugging Face version, 
 specifically tailored to run on Amazon SageMaker.
 
-* Setup development environment
-* reate and prepare the dataset
-* Fine-tune LLM using trl on Amazon SageMaker
-* Deploy & Evaluate LLM on Amazon SageMaker
+**Setup development environment**
+**reate and prepare the dataset**
+**Fine-tune LLM using trl on Amazon SageMaker**
+**Deploy & Evaluate LLM on Amazon SageMaker**
