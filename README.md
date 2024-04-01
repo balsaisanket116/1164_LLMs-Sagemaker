@@ -7,7 +7,7 @@ your application. You may need to fine-tune the model on your data to achieve hi
 This blog post walks you thorugh how to fine-tune open LLMs from Hugging Face using Amazon SageMaker. This blog is an extension and dedicated version to my How to Fine-Tune LLMs in 2024 with Hugging Face version, 
 specifically tailored to run on Amazon SageMaker.
 
-* Setup development environment
-* reate and prepare the dataset
-* Fine-tune LLM using trl on Amazon SageMaker
-* Deploy & Evaluate LLM on Amazon SageMaker
+1. [Setup development environment](https://www.philschmid.de/sagemaker-train-evalaute-llms-2024#1-setup-development-environment)
+2. [Create and prepare the dataset](https://www.philschmid.de/sagemaker-train-evalaute-llms-2024#2-create-and-prepare-the-dataset)
+3. [Fine-tune LLM using trl on Amazon SageMaker](https://www.philschmid.de/sagemaker-train-evalaute-llms-2024#3-fine-tune-mistral-7b-with-qlora-on-amazon-sagemaker)
+4. [Deploy & Evaluate LLM on Amazon SageMaker](https://www.philschmid.de/sagemaker-train-evalaute-llms-2024#4-deploy--evaluate-llm-on-amazon-sagemaker)
